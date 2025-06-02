@@ -22,8 +22,7 @@ Backend	Django, Django REST Framework
 Auth	JWT (Simple JWT)
 Frontend	HTML, CSS, JavaScript (Vanilla)
 Database	SQLite (default Django DB)
-Check out a video demo of the app in action:  
-[Watch on LinkedIn]( https://lnkd.in/dkSDUBf4)
+
 
 🔧 Setup Instructions
 1. Clone the repo
